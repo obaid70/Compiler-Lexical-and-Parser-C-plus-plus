@@ -1,0 +1,5 @@
+﻿  Project Phase 1.cpp
+c:\users\obaid\desktop\l1s19bscs0001\project phase 1\project phase 1.cpp(119): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\obaid\desktop\l1s19bscs0001\project phase 1\project phase 1.cpp(127): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\obaid\desktop\l1s19bscs0001\project phase 1\project phase 1.cpp(140): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+  Project Phase 1.vcxproj -> C:\Users\Obaid\Desktop\L1S19BSCS0001\Debug\Project Phase 1.exe

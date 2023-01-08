@@ -1,0 +1,5 @@
+﻿  Project Phase 1.cpp
+c:\users\obaid\desktop\ucp\semester 7\compiler construction\project\phase-01\dynamic table approach (solution)\project phase 1 dynamic (c++ compiler)\project phase 1\project phase 1.cpp(119): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\obaid\desktop\ucp\semester 7\compiler construction\project\phase-01\dynamic table approach (solution)\project phase 1 dynamic (c++ compiler)\project phase 1\project phase 1.cpp(127): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\obaid\desktop\ucp\semester 7\compiler construction\project\phase-01\dynamic table approach (solution)\project phase 1 dynamic (c++ compiler)\project phase 1\project phase 1.cpp(140): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+  Project Phase 1.vcxproj -> C:\Users\Obaid\Desktop\UCP\Semester 7\Compiler Construction\Project\Phase-01\Dynamic Table Approach (Solution)\Project Phase 1 Dynamic (C++ Compiler)\Debug\Project Phase 1.exe

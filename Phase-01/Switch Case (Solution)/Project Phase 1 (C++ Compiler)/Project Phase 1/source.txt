@@ -1,0 +1,4 @@
+ints  $ $ if $ %yolo while_ for int 23 ( obaid:==20 )
+{
+cin>>"obaid_";
+}3.43433E+13

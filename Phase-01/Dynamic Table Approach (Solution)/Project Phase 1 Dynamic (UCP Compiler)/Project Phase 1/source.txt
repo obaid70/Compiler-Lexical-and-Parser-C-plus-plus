@@ -1,0 +1,7 @@
+char * obaid_ = L1S19BSCS0001;
+iff(obaid_==0001)
+{
+	round(int i_=0;i<13;i++)
+	output<-obaid_[i];
+}
+return 0;
